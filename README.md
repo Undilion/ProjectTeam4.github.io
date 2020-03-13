@@ -11,3 +11,5 @@ If we pick the top 5 expensive stock in this industry, What is the monthly retur
 3. What are the daily and monthly price changes at individual stock and industry level?
 4. Is there a linear correlation between volatility of prices to overall return?
 5. Is there a correlation between days of loss until a day of positive return?
+6. Based on each historical return for the past 10 years, which company (if any) has remained in the top 10? Top 5?
+7. Was there a change in the top 5 industries (GICS sectors) in the past 10 years?
